@@ -1,0 +1,6 @@
+Visual Studio Solution File
+
+Project("{FAE04EC0-301F-11D3-BF4F-00C04F79EFBC}") = "EVPowertrainTestingSystem", "src/EVPowertrainTestingSystem/EVPowertrainTestingSystem.csproj", "{0F3B4E25-669F-40C6-8A8B-D1003FBC6040}"
+EndProject
+
+End Solution
